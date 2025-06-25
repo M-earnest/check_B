@@ -3,7 +3,7 @@ name: deploy-book
 # Only run this when the master branch changes
 on:
   push:
-    branches: [main]        # add master if needed
+    branches: main 
   workflow_dispatch:        # manual “Run workflow” button
     # If your git repository has the Jupyter Book within some-subfolder next to
     # unrelated files, you can make this run only if a file within that specific
