@@ -1,6 +1,5 @@
 format: jb-book
 root: general_information/index
-- file: general_information/dei_expra
 chapters:
 - file: general_information/overview
 - file: general_information/setup
