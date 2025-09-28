@@ -217,9 +217,7 @@ You may be thinking: "I want to challenge my uncle's statement about political c
 
 ### 1. Generalizability of Psychological Research: The Problem of "WEIRDness"
 
-Imagine.
-
-A European research team is conducting a study on the efficacy of a cognitive-behavioral measure for the treatment of depression. They collect age, gender (male/female), educational background, marital status (single, married, divorced, widowed), and symptom severity at the start of treatment. Excluded are minors, individuals over 65, acutely suicidal individuals, individuals with an IQ < 75, and individuals with comorbidities. Participants are recruited through advertisements posted at the local university and its affiliated teaching outpatient clinic. The intervention is administered in person twice weekly during morning hours at the teaching outpatient clinic, which is located on the 4th floor. Access to the clinic entrance involves several steps, and no elevator is available.
+Imagine a European research team is conducting a study on the efficacy of a cognitive-behavioral measure for the treatment of depression. They collect age, gender (male/female), educational background, marital status (single, married, divorced, widowed), and symptom severity at the start of treatment. Excluded are minors, individuals over 65, acutely suicidal individuals, individuals with an IQ < 75, and individuals with comorbidities. Participants are recruited through advertisements posted at the local university and its affiliated teaching outpatient clinic. The intervention is administered in person twice weekly during morning hours at the teaching outpatient clinic, which is located on the 4th floor. Access to the clinic entrance involves several steps, and no elevator is available.
 
 ---
 ### Reflections:
@@ -282,54 +280,41 @@ Germany's changing society, marked by increased migration and greater visibility
 
 **Culturally Sensitive Diagnostics:** Lacking knowledge of culture-specific characteristics and acculturation processes introduces the risk of misdiagnosis and ineffective treatment approaches. Psychologists must be capable of distinguishing culture-specific symptoms and personality patterns from actual pathologies.
 
-
 <details>
-<summary>Ressourcen/Instrumente zur kultursensiblen Diagnostik/Therapie</summary>
+<summary>Ressourcen/Instrumente zur Kultursensiblen Diagnostik/Therapie – Resources and Tools for Culturally Sensitive Practice</summary>
 
-### Leitline für Kultursensible Psychotherapie
-URL: http://kultursensible-psychotherapie.de/files/broschuere-leitlinien-kspt-print.pdf
+* **Leitlinie für Kultursensible Psychotherapie / Guidelines for Culturally Sensitive Psychotherapy**
+    URL: http://kultursensible-psychotherapie.de/files/broschuere-leitlinien-kspt-print.pdf
 
----
+* **Mental Health Resources for Clinicians and Researchers**
+    URL: https://www.traumameasuresglobal.com/
 
-### Mental Health Resources for Clinicians and Researchers
-URL: https://www.traumameasuresglobal.com/
+* **Kultursensible Diagnostik / Culturally Sensitive Diagnostics**
+    (kostenfreie Registrierung zum Zugriff / Free registration required for access)
+    URL: https://www.q-cultural.de/kultursensible-diagnostik/
 
----
+* **Z.B. Inventories zu Diskriminierung und Akkulturationsprozessen / E.g., Inventories for Discrimination and Acculturation Processes**
+    URL: https://www.q-cultural.de/testverfahren/module/modul.php?id=12
 
-### Kultursensible Diagnostik
-(kostenfreie Registrieung zum Zugriff)
-URL: https://www.q-cultural.de/kultursensible-diagnostik/
+* **Gesellschaftliches Engagement / Social Engagement**
+    Psychosoziale Beratungsstelle für Geflüchtete, Ausschreibungen für PsychologInnen mit ukrainisch o. russisch, sowie arabischen Sprachkenntnissen
+    URL: https://www.psychologie.uni-frankfurt.de/62374449/95_psychosoz_beratung_fluechtlinge
 
----
+* **Fragebogen zur Erhebung Interkultureller Kompetenz in der Gesundheitsversorgung (CCCHP-27) / Questionnaire for Measuring Intercultural Competence in Healthcare (CCCHP-27)**
+    URL: https://www.researchgate.net/publication/306612875_S1_File
 
-### Z.B. Invnetories zu Diskriminierung und Akkulturationsprozessen
-URL: https://www.q-cultural.de/testverfahren/module/modul.php?id=12
-
----
-
-### Gesellschaftliches Engagement
-Psychoszozial Beratungsstelle für Geflüchtete, Ausschreibungen für PsychologInnen mit ukrainisch o. russisch, sowie arabischen Sprachkentnissen
-URL: https://www.psychologie.uni-frankfurt.de/62374449/95_psychosoz_beratung_fluechtlinge
-
----
-
-### Fragebogen zur Erhebung Interkultureller Kompetenz in der Gesundheitsversorgung (CCCHP-27)
-URL: https://www.researchgate.net/publication/306612875_S1_File
-
----
-
-### Psychotherapie und Gender. Konzepte. Forschung. Praxis. (Buch; frei verfügbar aus dem Uni-Netz)
-URL: https://link.springer.com/book/10.1007/978-3-658-20471-6
+* **Psychotherapie und Gender. Konzepte. Forschung. Praxis. / Psychotherapy and Gender: Concepts, Research, Practice.** (Buch; frei verfügbar aus dem Uni-Netz / Book; freely available via University Network)
+    URL: https://link.springer.com/book/10.1007/978-3-658-20471-6
 
 </details>
-
 
 ### DEI Organizations and Groups:
 
 Psychology has not always been, but should be a global field. These organizations help ensure the science and practice of psychology is culturally informed and addresses the unique experiences of diverse populations worldwide. They further help with the professional development of their members and push towards more representation on our global stages.
 
 #### Women and Gender in Psychology: Advocacy & Leadership
-Abstract:
+
+
 * **APA Leadership Institute for Women in Psychology (LIWP)**
     * Description: A training program focused on developing leadership skills for women psychologists to increase their influence in professional and institutional settings.
     * URL: APA Leadership Institute for Women in Psychology (LIWP)
@@ -341,8 +326,9 @@ Abstract:
     * URL: Association for Women in Psychology (AWP)
 
 #### Culture-centered Psychology:
-Abstract:
+
 The following organizations are built upon specific cultural and regional identities to alleviate the dominance of Eurocentric psychological theory. Their mission is to promote global justice and advance professional practice rooted in the cultural values and historical experiences of their respective members.
+
 * **Pan-African Psychology Union (PAPU)**
     * Description: The representative body for the science and profession of psychology across the African continent, committed to developing culturally relevant scholarship and human development in African communities.
     * URL: https://www.papu.africa/
@@ -354,8 +340,9 @@ The following organizations are built upon specific cultural and regional identi
     * URL: https://www.mepa.me/
 
 #### Intercultural Psychology: Global Contexts & Identity
-Abstract:
+
 These organizations emphasize how culture, ethnicity, and the global environment shape psychological well-being, theory, and professional practice across different nations and communities.
+
 * **Global Psychology Alliance (GPA)**
     * Description: A worldwide coalition of psychological organizations that collaborate to address global challenges and develop culturally inclusive psychological resources.
     * URL: https://www.apa.org/international/networks/global-psychology-alliance
@@ -364,7 +351,7 @@ These organizations emphasize how culture, ethnicity, and the global environment
     * URL: https://www.iaccp.org/
 
 
-## Concluding Reflection Questions:
+## Concluding Reflections:
 
 * What was new for you?
 * How would/can you apply this?
