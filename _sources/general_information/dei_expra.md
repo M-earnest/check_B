@@ -24,8 +24,7 @@ Ask yourself:
 
 - Which implicit biases might influence how I perceive diversity?
 
-<details>
-<summary>Characteristics of Diversity</summary>
+```{dropdown} Characteristics of Diversity
 The presence of different (diverse) characteristics like
 * age
 * gender
@@ -37,7 +36,8 @@ The presence of different (diverse) characteristics like
 * sexual orientation
 * religion
 * Etc.
-</details>
+
+```
 
 
 ## Equity
@@ -50,10 +50,10 @@ Ask yourself:
 
 - Do I sometimes confuse “treating everyone the same” with “ensuring fairness”? How might this distinction play out in university settings or future clinical practice?
 
-<details>
-<summary>Definition of Equity</summary>
+```{dropdown} Definition of Equity
 Equity refers to the German term **"Chancengleichheit"** (equal opportunity); meaning that in a diverse society, every member should have the same chances independently of their characteristics.
-</details>
+
+```
 
 ---
 
@@ -67,11 +67,10 @@ Ask yourself:
 
 - Which everyday behaviors—in language, group discussions, or decision-making—can foster greater inclusion in my academic community?
 
-<details>
-<summary>Definition of Inclusion</summary>
+```{dropdown} Definition of Inclusion
 Inclusion means creating an environment where **equity and diversity can be realized**. It ensures diverse individuals feel **supported and can fully participate**.
-</details>
----
+
+```
 
 ## Professional Ethic: The Responsibility of Psychology
 
@@ -163,8 +162,6 @@ Below you will find the link to a test with which you can test your attitude reg
 
 ### Educational and Socio-Economic Backgrounds of Psychology Students:
 
---- lacking example
-
 ### Reflections:
 * What do your parents do for a living?
 * How many of your friends are also students?
@@ -230,8 +227,7 @@ Scientific psychology faces the challenge that a large portion of its findings a
 
 **Methodological Reorientation:** The **demand for a shift away from WEIRDness toward WILD (Worldwide, In Situ, Local, and Diverse)** research approaches emphasizes the necessity of culturally and contextually sensitive research practices. Only in this way can psychological theories claim generalizability or be adapted for specific populations (Newson et al., 2020).
 
-details>
-<summary>Additional Research and Practical Resources</summary>
+```{dropdown} Additional Research and Practical Resources
 
 * **Journal for Global Environmental Psychology (GEP)**
     * Abstract: Justify choice of sample; provide an extensive sample description; discuss the generalizability and implications of their findings and possible effects of culture and context; reward efforts to increase diversity (e.g., collection of non-convenient samples, authors from underrepresented populations) with higher chances of publication or their **Diversity Badge**.
@@ -257,8 +253,7 @@ details>
     * Description: A resource list that provides guidance and a research checklist to help investigators incorporate IDEA principles into all phases of psychological research, from design to dissemination.
     * URL: https://intranet.psych.umn.edu/research/inclusion-diversity-equity-and-accessibility-idea-resources
 
-</details>
-
+```
 
 # 2. Culturally Sensitive Diagnostics and Treatment in Practice
 
@@ -270,8 +265,7 @@ Germany's changing society, marked by increased migration and greater visibility
 
 **Culturally Sensitive Diagnostics:** Lacking knowledge of culture-specific characteristics and acculturation processes introduces the risk of misdiagnosis and ineffective treatment approaches. Psychologists must be capable of distinguishing culture-specific symptoms and personality patterns from actual pathologies.
 
-<details>
-<summary>Ressourcen/Instrumente zur Kultursensiblen Diagnostik/Therapie – Resources and Tools for Culturally Sensitive Practice</summary>
+```{dropdown} Ressourcen/Instrumente zur Kultursensiblen Diagnostik/Therapie – Resources and Tools for Culturally Sensitive Practice
 
 * **Leitlinie für Kultursensible Psychotherapie / Guidelines for Culturally Sensitive Psychotherapy**
     URL: http://kultursensible-psychotherapie.de/files/broschuere-leitlinien-kspt-print.pdf
@@ -296,14 +290,13 @@ Germany's changing society, marked by increased migration and greater visibility
 * **Psychotherapie und Gender. Konzepte. Forschung. Praxis. / Psychotherapy and Gender: Concepts, Research, Practice.** (Buch; frei verfügbar aus dem Uni-Netz / Book; freely available via University Network)
     URL: https://link.springer.com/book/10.1007/978-3-658-20471-6
 
-</details>
+```
 
 ### DEI Organizations and Groups:
 
 Psychology has not always been, but should be a global field. These organizations help ensure the science and practice of psychology is culturally informed and addresses the unique experiences of diverse populations worldwide. They further help with the professional development of their members and push towards more representation on our global stages.
 
 #### Women and Gender in Psychology: Advocacy & Leadership
-
 
 * **APA Leadership Institute for Women in Psychology (LIWP)**
     * Description: A training program focused on developing leadership skills for women psychologists to increase their influence in professional and institutional settings.
