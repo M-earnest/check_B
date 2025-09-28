@@ -200,7 +200,7 @@ Furthermore, you can pay attention to **how you recruit your sample**, which **c
 To prepare yourself on how to deal with this situation, you can plan directly using **SMART** (**S**pecific, **M**easurable, **A**chievable, **R**elevant, **T**ime-bound; Doran, 1981) to turn a goal like "managing a difficult conversation" into a concrete, low-threshold action plan.
 SMART is intended to turn vague intentions into concrete action plans. In this context, it helps break down abstract commitments into measurable steps that can be practiced during an event like the family gathering, for example.
 
-```{toggle} Using SMART
+```{dropdown} Using SMART
 You may be thinking: "I want to challenge my uncle's statement about political correctness, but I don't want to start a huge argument." This vague intention is emotionally taxing and rarely productive. Here's how you could break this down:
 
 * **Specific:** Clearly defined (e.g., I will ask one open question about their concern).
