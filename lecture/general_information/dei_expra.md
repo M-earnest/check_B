@@ -352,7 +352,7 @@ These organizations emphasize how culture, ethnicity, and the global environment
 * What commitment do you take away with you?
 
 
-## Bibliography (APA 7th Edition)
+## Bibliography
 
 Booh, A. T., Huang, D., & Westrich, D. C. (2019). *Studienfachwahl im Kontext des sozialen Umfelds: Eine empirische Studie zur Rolle sozialer Beziehungen bei der Studienfachwahl*. [Self-published project paper]. Johannes Gutenberg-Universität Mainz.
 
