@@ -200,18 +200,15 @@ Furthermore, you can pay attention to **how you recruit your sample**, which **c
 To prepare yourself on how to deal with this situation, you can plan directly using **SMART** (**S**pecific, **M**easurable, **A**chievable, **R**elevant, **T**ime-bound; Doran, 1981) to turn a goal like "managing a difficult conversation" into a concrete, low-threshold action plan.
 SMART is intended to turn vague intentions into concrete action plans. In this context, it helps break down abstract commitments into measurable steps that can be practiced during an event like the family gathering, for example.
 
-<details>
-<summary>Dropdown:</summary>
-
+```{toggle} Using SMART
 You may be thinking: "I want to challenge my uncle's statement about political correctness, but I don't want to start a huge argument." This vague intention is emotionally taxing and rarely productive. Here's how you could break this down:
 
-* **Specific**: Clearly defined (e.g., I will ask one open question about their concern).
-* **Measurable**: Criteria for success review (e.g., I posed one question and refrained from debating/arguing).
-* **Achievable**: Realistic and feasible (e.g., Asking one question is manageable).
-* **Relevant**: Contributes to the overarching intention (e.g., Practicing active listening).
-* **Time-bound**: Provided with a clear timeframe (e.g., During the family gathering this Saturday).
-</details>
-
+* **Specific:** Clearly defined (e.g., I will ask one open question about their concern).
+* **Measurable:** Criteria for success review (e.g., I posed one question and refrained from debating/arguing).
+* **Achievable:** Realistic and feasible (e.g., Asking one question is manageable).
+* **Relevant:** Contributes to the overarching intention (e.g., Practicing active listening).
+* **Time-bound:** Provided with a clear timeframe (e.g., During the family gathering this Saturday).
+```
 
 ### 1. Generalizability of Psychological Research: The Problem of "WEIRDness"
 
