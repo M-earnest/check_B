@@ -265,8 +265,6 @@ details>
 
 # 2. Culturally Sensitive Diagnostics and Treatment in Practice
 
-- Reflection Question!
-
 Germany's changing society, marked by increased migration and greater visibility of diverse identities, demands special attention in clinical practice. Psychologists and psychotherapists cannot afford to be blind to the specific life realities of diverse individuals.
 
 **Etiology of Disorders:** The lived realities and causes of mental disorders vary significantly depending on origin, socioeconomic status, or experiences of forced migration (e.g., the increased prevalence and specific triggers of PTSD among refugees compared to the German general population).
