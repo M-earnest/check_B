@@ -22,7 +22,7 @@ Ask yourself:
 
 - How do I react to people with different experiences, values, or backgrounds than mine and why?
 
-    Which implicit biases might influence how I perceive diversity?
+- Which implicit biases might influence how I perceive diversity?
 
 <details>
 <summary>Characteristics of Diversity</summary>
@@ -44,11 +44,11 @@ The presence of different (diverse) characteristics like
 
 Ask yourself:
 
-    Do I have access to the same academic resources, mentorship, and networking opportunities as my peers—and is that true for everyone in my cohort?
+- Do I have access to the same academic resources, mentorship, and networking opportunities as my peers—and is that true for everyone in my cohort?
 
-    Where do I notice systemic barriers in academia or training that might disadvantage certain groups of students or researchers?
+- Where do I notice systemic barriers in academia or training that might disadvantage certain groups of students or researchers?
 
-    Do I sometimes confuse “treating everyone the same” with “ensuring fairness”? How might this distinction play out in university settings or future clinical practice?
+- Do I sometimes confuse “treating everyone the same” with “ensuring fairness”? How might this distinction play out in university settings or future clinical practice?
 
 <details>
 <summary>Definition of Equity</summary>
@@ -61,11 +61,11 @@ Equity refers to the German term **"Chancengleichheit"** (equal opportunity); me
 
 Ask yourself:
 
-    What steps can I take to encourage classmates to share their perspectives without fear of judgment or exclusion?
+- What steps can I take to encourage classmates to share their perspectives without fear of judgment or exclusion?
 
-    How do I respond when someone is subtly or openly excluded in academic or professional settings?
+- How do I respond when someone is subtly or openly excluded in academic or professional settings?
 
-    Which everyday behaviors—in language, group discussions, or decision-making—can foster greater inclusion in my academic community?
+- Which everyday behaviors—in language, group discussions, or decision-making—can foster greater inclusion in my academic community?
 
 <details>
 <summary>Definition of Inclusion</summary>
@@ -224,9 +224,9 @@ A European research team is conducting a study on the efficacy of a cognitive-be
 ---
 ### Reflections:
 
-    To whom are the results of this study generalizable?**
+- To whom are the results of this study generalizable?**
 
-    Who is likely excluded/not reached due to the framework conditions?**
+- Who is likely excluded/not reached due to the framework conditions?**
 
 ---
 
