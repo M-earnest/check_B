@@ -213,8 +213,6 @@ You may be thinking: "I want to challenge my uncle's statement about political c
 </details>
 
 
-
-
 ### 1. Generalizability of Psychological Research: The Problem of "WEIRDness"
 
 Imagine a European research team is conducting a study on the efficacy of a cognitive-behavioral measure for the treatment of depression. They collect age, gender (male/female), educational background, marital status (single, married, divorced, widowed), and symptom severity at the start of treatment. Excluded are minors, individuals over 65, acutely suicidal individuals, individuals with an IQ < 75, and individuals with comorbidities. Participants are recruited through advertisements posted at the local university and its affiliated teaching outpatient clinic. The intervention is administered in person twice weekly during morning hours at the teaching outpatient clinic, which is located on the 4th floor. Access to the clinic entrance involves several steps, and no elevator is available.
@@ -235,37 +233,34 @@ Scientific psychology faces the challenge that a large portion of its findings a
 
 **Methodological Reorientation:** The **demand for a shift away from WEIRDness toward WILD (Worldwide, In Situ, Local, and Diverse)** research approaches emphasizes the necessity of culturally and contextually sensitive research practices. Only in this way can psychological theories claim generalizability or be adapted for specific populations (Newson et al., 2020).
 
+details>
+<summary>Additional Research and Practical Resources</summary>
+
+* **Journal for Global Environmental Psychology (GEP)**
+    * Abstract: Justify choice of sample; provide an extensive sample description; discuss the generalizability and implications of their findings and possible effects of culture and context; reward efforts to increase diversity (e.g., collection of non-convenient samples, authors from underrepresented populations) with higher chances of publication or their **Diversity Badge**.
+    * URL: https://gep.psychopen.eu/index.php/gep/diversity
+
+---
+
+* **International Research Partnerships: TRUST Code**
+    * Description: Provides a global framework for ethical and equitable collaboration in research, ensuring mutual benefit and respect among partners from diverse global contexts.
+    * URL: https://www.globalcodeofconduct.org/trust-code/
+
+---
+
+* **Consider Cultural and Psychological Distance**
+    * Muthukrishna et al. (2020) - Beyond WEIRD Psychology: Measuring and Mapping Scales of Cultural and Psychological Distance.
+    * Description: Demonstrates how to quantitatively measure and map scales of cultural and psychological distance to help researchers recognize the limitations of WEIRD samples and select more appropriate populations for studies.
+    * URL: http://www.culturaldistance.com/
+
+---
+
+* **University of Minnesota: IDEA in Research Resource List**
+    * Incorporating IDEA (Inclusion, Diversity, Equity, and Accessibility) into Research.
+    * Description: A resource list that provides guidance and a research checklist to help investigators incorporate IDEA principles into all phases of psychological research, from design to dissemination.
+    * URL: https://intranet.psych.umn.edu/research/inclusion-diversity-equity-and-accessibility-idea-resources
+
 </details>
----
-
-### Journal for Global Environmental Psychology (https://gep.psychopen.eu/index.php/gep/diversity)
-Key takeaways:
-* justify choice of sample
-* provide an extensive sample description
-* discuss the generalizability and implications of their findings and possible effects of culture and context
-* reward efforts to increase diversity (e.g., collection of non-convenient samples, authors from underrepresented populations) with higher chances of publication or their Diversity Badge
-URL: https://gep.psychopen.eu/index.php/gep/diversity
-
----
-
-### Internatioanl Research partnerships: TRUST Code – A Global Code of Conduct for Equitable Research Partnerships
-URL: https://www.globalcodeofconduct.org/trust-code/
-
----
-
-### Take into account Cultural and Psychological Distance
-e.g. as Muthukrishna et al. (2020) demonstrate in Beyond Western, Educated, Industrial, Rich, and Democratic (WEIRD) Psychology: Measuring and Mapping Scales of Cultural and Psychological Distance
-URL: http://www.culturaldistance.com/
-
----
-
-### University of Minnesota: IDEA in Research Resource List
-to incorporate IDEA into psychological research & research checklist:
-URL: https://intranet.psych.umn.edu/research/inclusion-diversity-equity-and-accessibility-idea-resources
-
-</details>
-
-***
 
 
 # 2. Culturally Sensitive Diagnostics and Treatment in Practice
