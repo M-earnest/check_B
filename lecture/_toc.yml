@@ -1,5 +1,6 @@
 format: jb-book
 root: general_information/index
+- file: general_information/dei_expra
 chapters:
 - file: general_information/overview
 - file: general_information/setup
@@ -9,4 +10,5 @@ chapters:
   - file: content/static_content
   - file: content/interactive_notebook
 - file: general_information/CoC
+- file: general_information/dei
 - file: general_information/dei_expra
